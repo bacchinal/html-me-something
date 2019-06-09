@@ -1,18 +1,27 @@
 .intro {
+    
+}
+
+.greeting {
     text-align: center;
     font-size: 100px;
     font-family: "Permanent Marker";
+    
+}
+.welcome {
+    
 }
 .crazyplace{
     font-size: 75px;
     font-family: "Algerian";
+    
 }
 p{
     text-align: center;
     font-size: 30px;
-}
+  }
 
 body {
-background-color: powderblue;
+background-color: rgb(168, 226, 238);
 
 }
