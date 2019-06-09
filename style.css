@@ -1,0 +1,18 @@
+.intro {
+    text-align: center;
+    font-size: 100px;
+    font-family: "Permanent Marker";
+}
+.crazyplace{
+    font-size: 75px;
+    font-family: "Algerian";
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+
+body {
+background-color: powderblue;
+
+}
