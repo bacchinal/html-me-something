@@ -3,9 +3,9 @@
 }
 
 .greeting {
-    text-align: center;
+    /*text-align: center;
     font-size: 100px;
-    font-family: "Permanent Marker";
+    font-family: "Permanent Marker";*/
     
 }
 .welcome {
@@ -17,11 +17,37 @@
     
 }
 p{
-    text-align: center;
-    font-size: 30px;
+   /* text-align: center;
+    font-size: 30px;*/
   }
 
 body {
-background-color: rgb(168, 226, 238);
+/*background-color: rgb(168, 226, 238);*/
 
 }
+.emergency{
+    color:red;
+    text-align: center;
+}
+.ice-numbers{
+
+}
+.closing{
+
+}
+.food{
+
+}
+.sights{
+
+}
+.disclaimer{
+
+}
+.typed-info{
+
+}
+footer{
+    text-align: center;
+    font-family: 'Haettenschweiler', 'Arial Narrow Bold', serif
+    font-size: 10px;
