@@ -1,34 +1,66 @@
-header {
+html{
     margin-top: 0;
-    background-color: gray
-    
+}
+header {
+   
+    background-color: rgb(169, 172, 172);
+    color: rgb(252, 252, 252);
+    border: 2px black dotted;
+    opacity: 1;
+    height: 90%;
+    width: 90px;
+    position: fixed;
+  
+        
 }
 
-.greeting {
-    /*text-align: center;
-    font-size: 100px;
-    font-family: "Permanent Marker";*/
+#greeting {
+    width: 70%;
+    margin-left: 200px;
+    text-align: center;
+    font-family: "Permanent Marker";
+    font-size: 70px;
     
 }
 .welcome {
+    text-align: center;
+  
     
 }
 .crazyplace{
-    font-size: 75px;
+      
+    font-size: 45px;
     font-family: "Algerian";
+    text-align: center;
+
+    
+
     
 }
+.typed-info, .picture, .disclaimer{
+    width: 60%;
+    margin-left: 200px;
+    text-align: center;
+    font-size: 30px; 
+}
 p{
-   /* text-align: center;
-    font-size: 30px;*/
+
   }
 
 body {
-/*background-color: rgb(168, 226, 238);*/
-
+    background-color: azure;
+    
+   
+   
 }
+.menu{
+    /* diplay: grid; */
+   
+}
+
 .emergency{
     color:red;
+    font-size: 30px;
     text-align: center;
 }
 .ice-numbers{
@@ -38,10 +70,32 @@ body {
 
 }
 .food{
+    width: 350px;
+    position: relative;
+    bottom: 2150px;
+    left: 700px;
+    font-size: 20px;
+    /* grid-column-start: auto;    */
+    /* grid-column-end: auto; */
+    text-align: center;
+    
 
 }
 .sights{
-
+    /* grid-column-start: auto; */
+    width: 350px;
+    font-size: 20px;
+    margin-left: 100px;
+    text-align: center;
+    /* grid-column-end: auto; */
+    
+    
+}
+.ice-numbers{
+    position: relative;
+    bottom: 1800px;
+    font-size: 20px;
+    
 }
 .disclaimer{
 
@@ -49,7 +103,71 @@ body {
 .typed-info{
 
 }
+
+
+
+h3{
+    /*width: 60%;
+    margin-left: 200px;
+    text-align: center;
+    text-align: center;*/
+}
+h1{
+ color: rgb(2, 34, 66);
+}
+
+
+.mall{
+    
+    background-color: rgb(226, 224, 224);
+    padding: 5px 10px;
+    
+}
+.art{
+    
+    background-color: rgb(141, 148, 155);
+    padding: 5px 10px;
+}
+.zoo{
+    background-color: rgb(226, 224, 224);
+    padding: 5px 10px;
+}
+.shaws{
+    
+    background-color:  rgb(141, 148, 155);
+    padding: 10px 10px;
+}
+.dominos{
+    background-color:  rgb(226, 224, 224);
+    padding: 10px 10px;
+}
+.papa{
+    background-color: rgb(141, 148, 155);
+    padding: 10px 10px;
+}
+.jets{
+    background-color: rgb(226, 224, 224);
+    padding: 10px 10px;
+}
+.imos{
+    background-color: rgb(141, 148, 155);
+    padding: 10px 10px;
+}
+.closing{
+   
+    position: relative;
+    bottom: 1600px;
+    width: 60%;
+    margin-left: 200px;
+    text-align: center;
+    font-size: 30px; 
+}
 footer{
+    
     text-align: center;
     font-family: 'Haettenschweiler', 'Arial Narrow Bold', serif
-    font-size: 10px;
+    
+}
+.copyright{
+    font-size: 15px;
+}
